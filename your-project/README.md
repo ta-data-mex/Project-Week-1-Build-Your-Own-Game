@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Batalla Naval
+*Jhoan Guzman - Victor Garcia*
 
-*[Your Cohort, Campus & Date]*
+*[PP - MX - FT]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,19 +14,24 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Batalla Naval es un juego en el cual el usuario tiene que adivinar las coordenadas de tres barcos escondidos en un tablero de 12x12; para esto el jugador tiene 10 vidas, de lo contrario pierde la partida.  
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+1. Se crea tablero de juego (array 12x12).
+2. Se define la posicion de los barcos de forma aleatoria sin que se traslapen.
+3. Se crea grafico de tablero.
+4. Se le piden la coordenadas al usuario n veces.
+5. El juego termina cuando se le terminan las vidas al jugador o cuando este destruye los tres barcos. 
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+Se hizo lluvia de ideas para determinar los pasos del algoritmo. A partir de esto se tradujo a Python.
 
-<a name="links"></a>
+
+<a name="https://Batalla-Naval.victor1234567.repl.run">Version Online</a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
