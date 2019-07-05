@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Ahorcado
+*[Patricia Collado y Luis Ponce]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Campus Ciudad de México & 5 julio 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,17 +14,17 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Nuestro juego es "Hangman" también conocido como Ahorcado, en el definimos que las personas tuvieran 5 oportunidades para adivinar la letra o palabra que la computadora elige aleatoriamente.
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+Nos juntamos y escribimos los criterios que nuestro juego debía cumplir y posteriormente, fuimos escribiendo las líneas de código y comprobando que funcionaran. El juego lo escribimos en Jupyter Notebook.
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+Primero nos juntamos para apuntar, en una libreta, los criterios con los cuales nuestro juego debía operar. Posteriormente, fuimos escribiendo las líneas de código y comprobando que funcionaran.
 
 <a name="links"></a>
 
