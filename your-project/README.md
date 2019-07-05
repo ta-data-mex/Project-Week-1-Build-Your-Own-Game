@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Ahorcado
 *[Patricia Collado y Luis Ponce]*
 
 *[Data Analytics, Campus Ciudad de México & 5 julio 2019]*
