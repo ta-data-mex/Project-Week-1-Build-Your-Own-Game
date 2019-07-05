@@ -3,7 +3,7 @@
 """
 Created on Thu Jul  4 16:50:36 2019
 
-@author: rodolfopardo
+@author: rodolfo | gustavo
 """
 
 #Juego 
@@ -27,10 +27,10 @@ for t in texto:
 #print(texto2)
 
 txtplano2 = " ".join(texto2)
-print(type(txtplano2))
+#print(type(txtplano2))
 
 txtplano2 = list(txtplano2.lower().split())
-print(txtplano2)
+#print(txtplano2)
 
 
 import random
