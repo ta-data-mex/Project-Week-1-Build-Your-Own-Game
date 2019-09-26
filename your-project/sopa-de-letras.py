@@ -12,7 +12,7 @@ def nombre(jugador):
     return 'Bienvenido ' + jugador + '¡Prepárate para jugar:'
 
 
-matriz2 = np.ones((20, 20))
+matriz2 = np.ones((10, 10))
 #print(matriz2)
 
 matrizjuego = [None] * 10
